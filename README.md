@@ -26,7 +26,8 @@ Dashboard
 https://github.com/ashwinireddy09/HR_Analytics_Attrition/blob/main/Screenshot%202025-07-10%20161520.png
 
 ## Process
--Data Collection & Understanding
+
+- Data Collection & Understanding
 Collected HR data including employee details like gender, age, education, job roles, department, marital status, and attrition status.
 Understood the structure and nature of the dataset to identify relevant fields for analysis.
 
