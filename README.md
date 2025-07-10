@@ -1,12 +1,6 @@
 # HR_Analytics_Attrition
 ## Introduction
-To analyze employee attrition data and derive actionable insights that help HR teams:
-
-Understand the distribution of attrition across various dimensions.
-
-Identify key factors contributing to employee attrition.
-
-Support data-driven decision-making to improve employee retention.
+The primary objective of this project is to analyze and understand employee attrition trends using HR data. Employee attrition refers to the gradual loss of employees over time and can significantly impact an organization's performance, costs, and morale. By identifying the factors that contribute to employee turnover such as age, education, department, and marital status—HR teams can take proactive measures to improve employee satisfaction, engagement, and retention. This project aims to build a comprehensive and interactive dashboard that visualizes these insights in a user-friendly format to support decision-making.
 
 ## Dataset used
 
