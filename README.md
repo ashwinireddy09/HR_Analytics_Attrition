@@ -25,7 +25,6 @@ Dataset used
 Dashboard
 https://github.com/ashwinireddy09/HR_Analytics_Attrition/blob/main/Screenshot%202025-07-10%20161520.png
 
-<img width="1796" height="846" alt="Screenshot 2025-07-10 161520" src="https://github.com/user-attachments/assets/ab9d8f3e-d712-4f8d-8bab-9ea5675aeb37" />
 
 ## Process
 
@@ -64,6 +63,9 @@ Included icons and consistent font styles to make the dashboard visually appeali
 ## Dashboard
 
 <img width="1444" height="812" alt="Screenshot 2025-07-10 172703" src="https://github.com/user-attachments/assets/5b65341b-60f7-47ba-9616-15fa4ac27594" />
+
+<img width="1796" height="846" alt="Screenshot 2025-07-10 161520" src="https://github.com/user-attachments/assets/670f7056-bcd4-4937-b451-4e3c9d61fef7" />
+
 
 ## Project Insight
 - The overall attrition rate is 16.12%, indicating a significant portion of the workforce is leaving the organization.
