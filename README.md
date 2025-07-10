@@ -59,7 +59,8 @@ Used color coding and professional formatting to enhance readability.
 Included icons and consistent font styles to make the dashboard visually appealing.
 
 ## Dashboard
-<img width="1796" height="846" alt="Screenshot 2025-07-10 161520" src="https://github.com/user-attachments/assets/9be4516f-edd1-439e-b0f9-cf1083d478c8" />
+
+<img width="1444" height="812" alt="Screenshot 2025-07-10 172703" src="https://github.com/user-attachments/assets/5b65341b-60f7-47ba-9616-15fa4ac27594" />
 
 ## Project Insight
 - The overall attrition rate is 16.12%, indicating a significant portion of the workforce is leaving the organization.
